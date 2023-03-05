@@ -1,0 +1,33 @@
+GA
+RunQuantity 1
+TerminationCondition 2
+TerminationParameter 3000000
+
+PopulationQuantity 3
+PopulationSize 100 100 2
+
+MutationIndexBP 0
+MutationParameterBP 0
+LocalSearchIndexBP 0
+OderIndexBP 1
+
+MutationIndexDI 2
+MutationParameterDI 2
+LocalSearchIndexDI 0
+OderIndexDI 1
+
+MutationIndex 2
+MutationParameter 2
+LocalSearchIndex 8
+LocalSearchParameter 1
+OderIndex 1
+
+SelectionIndex 1
+SelectionParameter 7
+
+CrossoverIndex 1
+CrossoverParameter 0.5
+
+OnlyBestAdd 1
+
+ShowResultStep 10

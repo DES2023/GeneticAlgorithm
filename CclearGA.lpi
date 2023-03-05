@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="12"/>
+    <PathDelim Value="\"/>
+    <General>
+      <Flags>
+        <LRSInOutputDirectory Value="False"/>
+        <CompatibilityMode Value="True"/>
+      </Flags>
+    </General>
+    <VersionInfo>
+      <Language Value=""/>
+      <CharSet Value=""/>
+    </VersionInfo>
+    <BuildModes Count="2" Active="Realese">
+      <Item1 Name="default" Default="True"/>
+      <Item2 Name="Realese">
+        <CompilerOptions>
+          <Version Value="11"/>
+          <PathDelim Value="\"/>
+          <Parsing>
+            <SyntaxOptions>
+              <UseAnsiStrings Value="False"/>
+            </SyntaxOptions>
+          </Parsing>
+          <CodeGeneration>
+            <Optimizations>
+              <OptimizationLevel Value="3"/>
+            </Optimizations>
+          </CodeGeneration>
+          <Linking>
+            <Debugging>
+              <DebugInfoType Value="dsDwarf2Set"/>
+            </Debugging>
+          </Linking>
+        </CompilerOptions>
+      </Item2>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <CommandLineParams Value="3.prb config_clear 3.result 3.pop"/>
+        <LaunchingApplication PathPlusParams="/usr/X11R6/bin/xterm -T &apos;Lazarus Run Output&apos; -e $(LazarusDir)/tools/runwait.sh $(TargetCmdLine)"/>
+      </local>
+      <FormatVersion Value="2"/>
+      <Modes Count="1">
+        <Mode0 Name="default">
+          <local>
+            <CommandLineParams Value="3.prb config_clear 3.result 3.pop"/>
+            <LaunchingApplication PathPlusParams="/usr/X11R6/bin/xterm -T &apos;Lazarus Run Output&apos; -e $(LazarusDir)/tools/runwait.sh $(TargetCmdLine)"/>
+          </local>
+        </Mode0>
+      </Modes>
+    </RunParams>
+    <Units Count="19">
+      <Unit0>
+        <Filename Value="CclearGA.DPR"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="20"/>
+        <CursorPos X="53" Y="31"/>
+        <UsageCount Value="168"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="MachineLine.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="361"/>
+        <CursorPos Y="251"/>
+        <UsageCount Value="41"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="clearga.pas"/>
+        <TopLine Value="1176"/>
+        <CursorPos X="25" Y="1110"/>
+        <UsageCount Value="86"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="Solution.pas"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="10"/>
+        <CursorPos X="11" Y="24"/>
+        <UsageCount Value="85"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="VarType.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="40"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="Solver.pas"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="97"/>
+        <CursorPos Y="243"/>
+        <UsageCount Value="85"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="Population.pas"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="38"/>
+        <CursorPos X="3" Y="135"/>
+        <UsageCount Value="80"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="FOrder.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="19"/>
+        <CursorPos X="12" Y="7"/>
+        <UsageCount Value="40"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="Buffer.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="18" Y="24"/>
+        <UsageCount Value="40"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="gaprocedure.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GAProcedure"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10" Y="15"/>
+        <UsageCount Value="166"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="Problem.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="26"/>
+        <CursorPos X="29" Y="623"/>
+        <UsageCount Value="74"/>
+        <Loaded Value="True"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="IterR.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="34" Y="12"/>
+        <UsageCount Value="37"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="IterRs.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="61" Y="53"/>
+        <UsageCount Value="37"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="RunStatistic.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="31"/>
+        <UsageCount Value="37"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="D:\temp\lazarus\fpc\3.0.4\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="712"/>
+        <CursorPos X="3" Y="735"/>
+        <UsageCount Value="5"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="Statistic.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="245"/>
+        <CursorPos X="53" Y="135"/>
+        <UsageCount Value="37"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="Generate.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="37"/>
+        <UsageCount Value="27"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="localsearch.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LocalSearch"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="238"/>
+        <UsageCount Value="141"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="Vector.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="60"/>
+        <CursorPos Y="75"/>
+        <UsageCount Value="36"/>
+        <Loaded Value="True"/>
+      </Unit18>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="clearga.pas"/>
+        <Caret Line="1197" TopLine="1178"/>
+      </Position1>
+      <Position2>
+        <Filename Value="clearga.pas"/>
+        <Caret Line="1199" TopLine="1178"/>
+      </Position2>
+      <Position3>
+        <Filename Value="clearga.pas"/>
+        <Caret Line="1194" TopLine="1178"/>
+      </Position3>
+      <Position4>
+        <Filename Value="clearga.pas"/>
+        <Caret Line="1228" TopLine="1196"/>
+      </Position4>
+      <Position5>
+        <Filename Value="clearga.pas"/>
+        <Caret Line="976" TopLine="955"/>
+      </Position5>
+      <Position6>
+        <Filename Value="clearga.pas"/>
+        <Caret Line="1194" TopLine="1177"/>
+      </Position6>
+      <Position7>
+        <Filename Value="clearga.pas"/>
+        <Caret Line="1195" TopLine="1177"/>
+      </Position7>
+      <Position8>
+        <Filename Value="clearga.pas"/>
+        <Caret Line="1197" TopLine="1177"/>
+      </Position8>
+      <Position9>
+        <Filename Value="clearga.pas"/>
+        <Caret Line="1195" TopLine="1177"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Solver.pas"/>
+        <Caret Line="243" TopLine="228"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Solver.pas"/>
+        <Caret Line="237" Column="142" TopLine="228"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Solver.pas"/>
+        <Caret Line="234" TopLine="228"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Solver.pas"/>
+        <Caret Line="237" TopLine="228"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Solver.pas"/>
+        <Caret Line="239" TopLine="228"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Solver.pas"/>
+        <Caret Line="241" TopLine="228"/>
+      </Position15>
+      <Position16>
+        <Filename Value="Solver.pas"/>
+        <Caret Line="243" TopLine="228"/>
+      </Position16>
+      <Position17>
+        <Filename Value="Solver.pas"/>
+        <Caret Line="234" TopLine="228"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Solver.pas"/>
+        <Caret Line="237" TopLine="228"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Solver.pas"/>
+        <Caret Line="239" TopLine="228"/>
+      </Position19>
+      <Position20>
+        <Filename Value="Solver.pas"/>
+        <Caret Line="241" TopLine="228"/>
+      </Position20>
+      <Position21>
+        <Filename Value="clearga.pas"/>
+        <Caret Line="1106" TopLine="1089"/>
+      </Position21>
+      <Position22>
+        <Filename Value="clearga.pas"/>
+        <Caret Line="1107" TopLine="1095"/>
+      </Position22>
+      <Position23>
+        <Filename Value="clearga.pas"/>
+        <Caret Line="1109" TopLine="1098"/>
+      </Position23>
+      <Position24>
+        <Filename Value="clearga.pas"/>
+        <Caret Line="1110" TopLine="1098"/>
+      </Position24>
+      <Position25>
+        <Filename Value="clearga.pas"/>
+        <Caret Line="1112" TopLine="1098"/>
+      </Position25>
+      <Position26>
+        <Filename Value="clearga.pas"/>
+        <Caret Line="1113" TopLine="1098"/>
+      </Position26>
+      <Position27>
+        <Filename Value="clearga.pas"/>
+        <Caret Line="1114" TopLine="1098"/>
+      </Position27>
+      <Position28>
+        <Filename Value="clearga.pas"/>
+        <Caret Line="1115" TopLine="1098"/>
+      </Position28>
+      <Position29>
+        <Filename Value="clearga.pas"/>
+        <Caret Line="1110" Column="25" TopLine="1105"/>
+      </Position29>
+      <Position30>
+        <Filename Value="CclearGA.DPR"/>
+        <Caret Line="39" Column="35" TopLine="30"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Parsing>
+      <SyntaxOptions>
+        <UseAnsiStrings Value="False"/>
+      </SyntaxOptions>
+    </Parsing>
+    <Linking>
+      <Debugging>
+        <DebugInfoType Value="dsDwarf2Set"/>
+      </Debugging>
+    </Linking>
+  </CompilerOptions>
+  <Debugging>
+    <Watches Count="8">
+      <Item1>
+        <Expression Value="CurrentRun"/>
+      </Item1>
+      <Item2>
+        <Expression Value="RunQuantity"/>
+      </Item2>
+      <Item3>
+        <Expression Value="s"/>
+      </Item3>
+      <Item4>
+        <Expression Value="sum"/>
+      </Item4>
+      <Item5>
+        <Expression Value="max"/>
+      </Item5>
+      <Item6>
+        <Expression Value="FBestSolutionNumber"/>
+      </Item6>
+      <Item7>
+        <Expression Value="i"/>
+      </Item7>
+      <Item8>
+        <Expression Value="use_iter_stat"/>
+      </Item8>
+    </Watches>
+    <Exceptions Count="2">
+      <Item1>
+        <Name Value="ECodetoolError"/>
+      </Item1>
+      <Item2>
+        <Name Value="EFOpenError"/>
+      </Item2>
+    </Exceptions>
+  </Debugging>
+</CONFIG>
